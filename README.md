@@ -13,7 +13,15 @@ Perfect for:
  ->Educational narrations
  ->YouTube Shorts / Reels
 
-  
+  Sample Images Provided
 
+We’ve included a few sample images in the `images/` folder so you can test the project right away.
 
+You can:
+->  Use these as sample backgrounds for testing
+-> Replace with your own high-quality visuals
+-> Add 10–20 images for longer stories
+-> Replace them with your own `.jpg` or `.png` images
+-> Add more images if your text is longer
+-> Make sure image count is proportional to the narration length
 
