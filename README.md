@@ -25,3 +25,19 @@ You can:
 -> Add more images if your text is longer
 -> Make sure image count is proportional to the narration length
 
+## 🎬 Sample Output
+
+We’ve included a sample output video in the repository for demonstration:
+
+download.mp4
+
+This video was generated using the sample story and images provided in the `images/` folder.
+
+- Input Text: A short story in Hindi
+- Voiceover: Generated using gTTS (Google Text-to-Speech)
+- Visuals: Image slideshow 
+- Duration: 2 min.
+
+You can replace the input text and images to generate your own custom video!
+
+
