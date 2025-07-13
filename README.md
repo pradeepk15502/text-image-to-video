@@ -1,4 +1,8 @@
- Text-to-Video Generator using Python (Hindi/English Support)
+Project Title & DDescription
+  ##Text-Image-to-Video Generator (Hindi/English)
+
+Generate slideshow videos with voiceover from input text and images using Python, gTTS & MoviePy.
+
 
 This project allows you to generate voice-narrated slideshow videos from any input text.  
 You can give a story or paragraph in "Hindi or English", and it will:
