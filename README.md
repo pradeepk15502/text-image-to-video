@@ -1,4 +1,5 @@
-Project Title & DDescription
+Project Title & Description
+
   ##Text-Image-to-Video Generator (Hindi/English)
 
 Generate slideshow videos with voiceover from input text and images using Python, gTTS & MoviePy.
